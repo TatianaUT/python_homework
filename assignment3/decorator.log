@@ -1,0 +1,15 @@
+function: hello_world
+positional parameters: none
+keyword parameters: none
+return: None
+-------
+function: retirn_true
+positional parameters: [1, 2, 3, 'abc']
+keyword parameters: none
+return: True
+-------
+function: return_decorator
+positional parameters: none
+keyword parameters: {'name': 'Tatiana', 'city': 'Los Gatos'}
+return: <function logger_decorator at 0x100e7afb0>
+-------
